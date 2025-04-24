@@ -1,3 +1,4 @@
 # Ignore the images folder
 images/
 Other/
+.vscode/
